@@ -6,3 +6,13 @@ In the year 3023, Earth becomes uninhabitable for humans, prompting scientists t
 Stage 1 serves as the entry level where you find yourself inside the spacecraft. Here, you have the opportunity to acquaint yourself with the game's controls. Your ultimate objective in this stage is to consume the space food, a delectable chocolate treat.
 ### Stage 2
 Upon landing on the planet, your mission begins as you embark on the task of transforming it into a comfortable and welcoming home for all its future inhabitants.
+![Screenshot 2023-10-08 234424](https://github.com/KoalaWill/Titan-City-2023/assets/108674407/bfab31f7-08a2-44c9-9129-0d0e9e94a44f)
+![Screenshot 2023-10-08 234433](https://github.com/KoalaWill/Titan-City-2023/assets/108674407/7f2af120-f6f5-415a-86cc-8fef29345775)
+
+
+![Screenshot 2023-10-08 234419](https://github.com/KoalaWill/Titan-City-2023/assets/108674407/fdc17537-7b83-46cf-a68b-dcb6158bb7e6)
+
+<video src="https://github.com/KoalaWill/Titan-City-2023/assets/108674407/ef4a5816-9e25-4c68-bbab-a5d7e612c13c"></video>
+
+
+
